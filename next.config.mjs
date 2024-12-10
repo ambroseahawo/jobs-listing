@@ -12,6 +12,14 @@ const nextConfig = {
     config.resolve.alias["@"] = path.resolve(__dirname, "src"); // Adjust if you're not using src folder
     return config;
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**", // Allow all domains
+      },
+    ],
+  },
 };
 
 export default nextConfig;
