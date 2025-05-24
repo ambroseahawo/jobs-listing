@@ -10,7 +10,7 @@ const Sidebar = () => {
   );
 
   const [jobRoles, setJobRoles] = useState<Record<string, boolean>>(
-    Object.fromEntries(filtersData.jobRoles.options.map((opt) => [opt.id, false])),
+    Object.fromEntries(filtersData.jobRoles.options.map((opt) => [opt.id, opt.id === "programming"])),
   );
 
   const [remoteOnly, setRemoteOnly] = useState(false);
