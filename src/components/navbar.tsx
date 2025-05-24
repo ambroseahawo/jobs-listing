@@ -1,41 +1,33 @@
-import Link from "next/link";
-
 export default function Navbar() {
   return (
-    <nav className="bg-white shadow-md">
-      <div className="container mx-auto px-4 py-3 flex justify-between items-center">
-        <div className="text-xl font-bold text-gray-800">JobHire</div>
-        <ul className="flex items-center space-x-6">
-          {/* <li>
-            <Link href="/" className="text-gray-600 hover:text-blue-600">
-              Start a search
-            </Link>
-          </li>
-          <li>
-            <Link href="#" className="text-gray-600 hover:text-blue-600">
-              Jobs list
-            </Link>
-          </li>
-          <li>
-            <Link href="#" className="text-gray-600 hover:text-blue-600">
-              Salary estimate
-            </Link>
-          </li>
-          <li>
-            <Link href="#" className="text-gray-600 hover:text-blue-600">
-              Pricing
-            </Link>
-          </li> */}
-        </ul>
-        <div className="flex space-x-4">
-          {/* <Link href="#" className="text-gray-600 hover:text-blue-600">
-            Log in
-          </Link> */}
-          <Link href="#" className="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700">
-            Post Job
-          </Link>
+    <header className="c6kdq ckof8 cn582">
+      <div className="cfd1l cnsl7 cwkz1 cwkio">
+        <div className="c8og8 caqh0 cduop chu3i c1ymg">
+          <div className="ch3n4 ctzpc">
+            <a className="cohq9 c6kou" href="/" aria-label="">
+              <svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+                <path className="cdzk3" d="M13.853 18.14 1 10.643 31 1l-.019.058z"></path>
+                <path className="cki6n" d="M13.853 18.14 30.981 1.058 21.357 31l-7.5-12.857z"></path>
+              </svg>
+            </a>
+          </div>
+
+          <nav className="c8og8 cycys">
+            <ul className="c8og8 cycys cvkqj cduop cemyy">
+              <li>
+                <a className="c8og8 cduop c50eh cm7rx cf37z c4vrg cw2fq c4von c86o5" href="/">
+                  Sign in
+                </a>
+              </li>
+              <li className="c75a8">
+                <a className="c40tu cn582 ce7qj cyky3 ctpla czwz3" href="/">
+                  Post a job - $299
+                </a>
+              </li>
+            </ul>
+          </nav>
         </div>
       </div>
-    </nav>
+    </header>
   );
 }

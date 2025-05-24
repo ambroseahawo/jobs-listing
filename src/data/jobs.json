@@ -1,0 +1,144 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "company": "Qonto",
+      "title": "Engineering Manager Developer Experience",
+      "salary": "$75K - $100K",
+      "location": "🇬🇧 London, UK",
+      "type": "Full Time",
+      "posted": "22d",
+      "icon": "/images/company-icon-01.svg"
+    },
+    {
+      "id": 2,
+      "company": "Vimeo",
+      "title": "Software Engineer Backend",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "2h",
+      "icon": "/images/company-icon-02.svg"
+    },
+    {
+      "id": 3,
+      "company": "Robinhood",
+      "title": "Senior Site Reliability Engineer",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "3h",
+      "icon": "/images/company-icon-03.svg"
+    },
+    {
+      "id": 4,
+      "company": "GitHub",
+      "title": "Remote Shopify Website Tester",
+      "salary": "$100K - $170K",
+      "location": "🇺🇸 NYC",
+      "type": "Full Time",
+      "posted": "4h",
+      "icon": "/images/company-icon-04.svg"
+    },
+    {
+      "id": 5,
+      "company": "GitHub",
+      "title": "Remote Senior Software Engineer",
+      "salary": "$100K - $170K",
+      "location": "🇺🇸 NYC",
+      "type": "Full Time",
+      "posted": "7h",
+      "icon": "/images/company-icon-04.svg"
+    },
+    {
+      "id": 6,
+      "company": "Qonto",
+      "title": "Senior Web App Designer",
+      "location": "🇬🇧 London, UK",
+      "type": "Contract",
+      "posted": "12h",
+      "icon": "/images/company-icon-01.svg"
+    },
+    {
+      "id": 7,
+      "company": "Revolut",
+      "title": "Ruby on Rails Engineer",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "12h",
+      "icon": "/images/company-icon-05.svg"
+    },
+    {
+      "id": 8,
+      "company": "HSBC",
+      "title": "Senior Software Engineer Backend",
+      "location": "🇮🇹 Milan, IT",
+      "type": "Full Time",
+      "posted": "20h",
+      "icon": "/images/company-icon-06.svg"
+    },
+    {
+      "id": 9,
+      "company": "Twitter",
+      "title": "React.js Software Developer",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "1d",
+      "icon": "/images/company-icon-07.svg"
+    },
+    {
+      "id": 10,
+      "company": "Medium",
+      "title": "Senior Client Engineer (React & React Native)",
+      "salary": "$55K - $100K",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "1d",
+      "icon": "/images/company-icon-08.svg"
+    },
+    {
+      "id": 11,
+      "company": "Twitch",
+      "title": "Contract React Native Engineer",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "2d",
+      "icon": "/images/company-icon-09.svg"
+    },
+    {
+      "id": 12,
+      "company": "Figma",
+      "title": "QA Automation Engineer",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "2d",
+      "icon": "/images/company-icon-10.svg"
+    },
+    {
+      "id": 13,
+      "company": "Figma",
+      "title": "Senior Marketing Program Manager",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "2d",
+      "icon": "/images/company-icon-10.svg"
+    },
+    {
+      "id": 14,
+      "company": "Figma",
+      "title": "Senior Product Designer",
+      "location": "🌎 Remote",
+      "type": "Full Time",
+      "posted": "2d",
+      "icon": "/images/company-icon-10.svg"
+    },
+    {
+      "id": 15,
+      "company": "Facebook",
+      "title": "Remote Cyber Security Analyst US",
+      "salary": "$55K - $100K",
+      "location": "🇺🇸 United States",
+      "type": "Full Time",
+      "posted": "2d",
+      "icon": "/images/company-icon-11.svg"
+    }
+  ]
+}
