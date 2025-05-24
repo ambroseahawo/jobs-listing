@@ -1,0 +1,22 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "image": "/images/testimonial-01.jpg",
+      "quote": "Hiring a Senior Laravel engineer through JobBoard has been incredible. The best job board experience we've ever had.",
+      "name": "Patrick Metzger",
+      "title": "CEO",
+      "company": "App.com",
+      "companyUrl": "#0"
+    },
+    {
+      "id": 2,
+      "image": "/images/testimonial-02.jpg",
+      "quote": "Hiring a Senior Laravel engineer through JobBoard has been incredible. The best job board experience we've ever had.",
+      "name": "Annie Patrick",
+      "title": "CEO",
+      "company": "TrueThing",
+      "companyUrl": "#0"
+    }
+  ]
+}
