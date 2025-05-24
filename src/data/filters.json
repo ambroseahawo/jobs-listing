@@ -1,0 +1,34 @@
+{
+  "jobTypes": {
+    "title": "Job Type",
+    "options": [
+      { "id": "fullTime", "label": "Full-time" },
+      { "id": "partTime", "label": "Part-time" },
+      { "id": "internship", "label": "Intership" },
+      { "id": "contract", "label": "Contract / Freelance" },
+      { "id": "cofounder", "label": "Co-founder" }
+    ]
+  },
+  "jobRoles": {
+    "title": "Job Roles",
+    "options": [
+      { "id": "programming", "label": "Programming" },
+      { "id": "design", "label": "Design" },
+      { "id": "management", "label": "Management / Finance" },
+      { "id": "customerSupport", "label": "Customer Support" },
+      { "id": "sales", "label": "Sales / Marketing" }
+    ]
+  },
+  "salaryRange": {
+    "title": "Salary Range",
+    "options": [
+      { "id": "range20to50", "label": "$20K - $50K" },
+      { "id": "range50to100", "label": "$50K - $100K" },
+      { "id": "range100plus", "label": "> $100K" }
+    ]
+  },
+  "locations": {
+    "title": "Location",
+    "options": ["Anywhere", "London", "San Francisco", "New York", "Berlin"]
+  }
+}
