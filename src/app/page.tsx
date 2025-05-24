@@ -1,6 +1,6 @@
 import Clients from "@/components/Clients";
 import Hero from "@/components/Hero";
-import JobList from "@/components/jobList";
+import JobList from "@/components/JobList";
 import Sidebar from "@/components/Sidebar";
 import Testimonials from "@/components/Testimonials";
 
